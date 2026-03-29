@@ -204,7 +204,7 @@ RedactIT/
 ├── redactit.py          # Main application (single-file)
 ├── setup.py             # Installer: deps, launcher, .desktop, icon
 ├── requirements.txt     # Python package requirements
-├── screenshot.png       # UI screenshot (shown in README Interface section)
+├── screenshot.png
 └── README.md
 ```
 
